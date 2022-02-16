@@ -1,2 +1,2 @@
-# WEN_github_workshop
+# WEN github workshop
 Repo for WEN github workshop
